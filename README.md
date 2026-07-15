@@ -31,7 +31,7 @@ using a single React Native codebase.
 
 ![TU TALK Demo](assets/demo1.png)
 ![TU TALK Demo](assets/demo2.png)
-![TU TALK Demo](assets/demo3.png)
+![TU TALK Demo](assets/demo3-new.png)
 ![TU TALK Demo](assets/demo4.png)
 ![TU TALK Demo](assets/demo8.png)
 ![TU TALK Demo](assets/demo9.png)
