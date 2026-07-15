@@ -270,8 +270,6 @@ Node.js + Express API
 MongoDB Database
 ```
 
----
-
 ## Image Upload Flow
 
 ```
@@ -318,8 +316,6 @@ iOS
 Android
 Web
 ```
-
----
 
 ## Backend (Node.js API)
 
