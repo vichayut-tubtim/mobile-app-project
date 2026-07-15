@@ -69,7 +69,6 @@ JWT Authentication
 Protected Resources
 ```
 
----
 
 ## 📝 Post Management
 
@@ -83,7 +82,6 @@ Users can:
 
 Post images are uploaded and stored using Firebase Storage.
 
----
 
 ## 🧭 Navigation System
 
@@ -107,7 +105,6 @@ Application
 └── Post Details
 ```
 
----
 
 ## 🎨 User Interface
 
@@ -117,7 +114,6 @@ The application provides:
 - Responsive layouts
 - Mobile-friendly navigation
 
----
 
 ## 🗂 State Management
 
@@ -270,7 +266,7 @@ Node.js + Express API
 MongoDB Database
 ```
 
-## Image Upload Flow
+Image Upload Flow:
 
 ```
 User selects image
