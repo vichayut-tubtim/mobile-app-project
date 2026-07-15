@@ -115,7 +115,6 @@ The application provides:
 
 - Reusable UI components
 - Responsive layouts
-- Theme-aware components
 - Mobile-friendly navigation
 
 ---
@@ -439,6 +438,7 @@ Possible improvements:
 
 - Add real-time chat using WebSocket
 - Add push notifications
+- Add theme-aware components
 - Improve recommendation system
 - Deploy backend to cloud infrastructure
 - Add automated testing
