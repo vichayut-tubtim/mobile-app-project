@@ -101,7 +101,7 @@ Application
 ├── Main Tabs
 │   ├── Home Feed
 │   ├── Create Post
-│   ├── Explore
+│   ├── Notifications
 │   └── Settings
 │
 └── Post Details
@@ -187,7 +187,7 @@ TU-TALK/
 │   ├── (tabs)/
 │   │   ├── Home feed
 │   │   ├── Create post
-│   │   ├── Explore
+│   │   ├── Notifications
 │   │   └── Settings
 │   │
 │   ├── modals/
@@ -438,7 +438,6 @@ University group project developed by Computer Engineering students.
 Possible improvements:
 
 - Add real-time chat using WebSocket
-- Add post reactions and comments
 - Add push notifications
 - Improve recommendation system
 - Deploy backend to cloud infrastructure
